@@ -117,5 +117,5 @@ Este projeto está sob a licença MIT. Sinta-se à vontade para utilizar, modifi
 ## 💬 Contato
 
 Desenvolvido por **Arthur Paes Leme Stiegler**
-Entre em contato em: \[[seuemail@exemplo.com](mailto:seuemail@exemplo.com)]
-Ou acesse: [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)
+Entre em contato em: \[[arthurp.l.stiegler@gmail.com](mailto:arthurp.l.stiegler@gmail.com)]
+Ou acesse: [linkedin.com/in/arthur-paes-leme-stiegler-1940361a3](www.linkedin.com/in/arthur-paes-leme-stiegler-1940361a3)
