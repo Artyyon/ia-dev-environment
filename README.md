@@ -108,12 +108,6 @@ docker-compose down
 
 ---
 
-## 📜 Licença
-
-Este projeto está sob a licença MIT. Sinta-se à vontade para utilizar, modificar e compartilhar!
-
----
-
 ## 💬 Contato
 
 - Desenvolvido por **Arthur Paes Leme Stiegler**
