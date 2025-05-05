@@ -1,0 +1,14 @@
+version: "3.9"
+
+services:
+  jupyter:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: ambiente_desenvolvimento
+    container_name: OCR
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./notebooks:/workspace
+    restart: unless-stopped

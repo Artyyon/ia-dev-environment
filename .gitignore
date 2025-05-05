@@ -1,0 +1,50 @@
+# Arquivos do Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Caches
+*.log
+*.sqlite3
+*.db
+*.bak
+*.swp
+*.swo
+*.tmp
+.cache/
+.ipynb_checkpoints/
+
+# Notebooks temporários ou backups
+*.ipynb~
+~*.ipynb
+
+# Arquivos de configuração pessoais
+.env
+.env.*
+
+# Diretórios do Jupyter Notebook
+.jupyter/
+.nbconvert/
+.lab/
+
+# Docker
+*.pid
+*.tar
+docker-compose.override.yml
+.docker/
+
+# Volume de notebooks (se você não quiser versionar o conteúdo)
+# Descomente a linha abaixo caso prefira ignorar os notebooks locais
+# notebooks/
+
+# VSCode ou IDEs
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
